@@ -13,7 +13,7 @@ This TypeScript script generates Ethereum wallets using the Web3 library, saves 
 
     ```bash
     git clone https://github.com/luffylovesmeat/create-web3-wallet-script.git
-    cd ethereum-wallet-generator
+    cd create-web3-wallet-script
     ```
 
 2. Install dependencies:
