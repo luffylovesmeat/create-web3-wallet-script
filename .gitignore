@@ -5,5 +5,3 @@ files/*
 dist
 
 .env
-
-.idea
